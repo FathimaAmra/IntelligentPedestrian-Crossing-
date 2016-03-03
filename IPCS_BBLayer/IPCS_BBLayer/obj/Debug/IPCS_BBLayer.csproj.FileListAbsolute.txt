@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\bin\Debug\IPCS_BBLayer.dll
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\bin\Debug\IPCS_BBLayer.pdb
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\obj\Debug\Interop.MLApp.dll
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\obj\Debug\IPCS_BBLayer.csproj.ResolveComReference.cache
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\obj\Debug\IPCS_BBLayer.dll
+C:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\obj\Debug\IPCS_BBLayer.pdb
