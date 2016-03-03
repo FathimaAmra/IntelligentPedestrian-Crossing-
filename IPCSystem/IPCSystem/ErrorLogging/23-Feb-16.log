@@ -1,0 +1,34 @@
+
+Log written at : 2/23/2016 11:09:13 PM
+Error occured on page : http://localhost:61964/Defalut.aspx
+
+Here is the actual error :
+System.Exception: Error occured
+   at IPCSystem.Default.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\Default.aspx.cs:line 19
+==========================================
+
+Log written at : 2/23/2016 11:10:49 PM
+Error occured on page : http://localhost:61964/Defalut.aspx
+
+Here is the actual error :
+System.Exception: Error occured
+   at IPCSystem.Default.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\Default.aspx.cs:line 19
+==========================================
+
+Log written at : 2/23/2016 11:12:10 PM
+Error occured on page : http://localhost:61964/Defalut.aspx
+
+Here is the actual error :
+System.Exception: Error occured
+   at IPCSystem.Default.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\Default.aspx.cs:line 19
+==========================================
+
+Log written at : 2/23/2016 11:18:50 PM
+Error occured on page : http://localhost:61964/showCountDownTime.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCSystem.showCountdowntelligent_Pedestrian_Systemtton1_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\showCountDownTime.aspx.cs:line 29
+==========================================

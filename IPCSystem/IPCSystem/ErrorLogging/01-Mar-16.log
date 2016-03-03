@@ -1,0 +1,108 @@
+
+Log written at : 3/1/2016 12:05:30 AM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
+
+Log written at : 3/1/2016 12:05:36 AM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
+
+Log written at : 3/1/2016 12:06:24 AM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 3/1/2016 12:08:11 AM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 3/1/2016 1:01:42 AM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 3/1/2016 6:05:17 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 3/1/2016 6:58:40 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
+
+Log written at : 3/1/2016 8:47:58 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 3/1/2016 8:48:10 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 36
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+
+Log written at : 3/1/2016 11:52:33 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 106
+==========================================
+
+Log written at : 3/1/2016 11:55:35 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 40
+==========================================
+

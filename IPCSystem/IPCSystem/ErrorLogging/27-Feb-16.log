@@ -1,0 +1,11 @@
+
+Log written at : 2/27/2016 12:09:37 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.IndexOutOfRangeException: city
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 33
+==========================================

@@ -1,0 +1,47 @@
+
+Log written at : 2/29/2016 8:41:40 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
+
+Log written at : 2/29/2016 10:02:56 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
+
+Log written at : 2/29/2016 10:09:49 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 24
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 2/29/2016 10:37:43 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.Runtime.InteropServices.COMException (0x80004005): Undefined function 'BlackPixel' for input arguments of type 'char'.
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   at MLApp.DIMLApp.Feval(String bstrName, Int32 nargout, Object& pvarArgOut, Object arg1, Object arg2, Object arg3, Object arg4, Object arg5, Object arg6, Object arg7, Object arg8, Object arg9, Object arg10, Object arg11, Object arg12, Object arg13, Object arg14, Object arg15, Object arg16, Object arg17, Object arg18, Object arg19, Object arg20, Object arg21, Object arg22, Object arg23, Object arg24, Object arg25, Object arg26, Object arg27, Object arg28, Object arg29, Object arg30, Object arg31, Object arg32)
+   at IPCS_BBLayer.calculateCountdownTime.countdownTime(String iPEnd1, String ipEnd2, String pDistance) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\BBLayer\IPCS_BBLayer\IPCS_BBLayer\calculateCountdownTime.cs:line 30
+   at IPCSystem.adminCountdownTimePage.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 67
+==========================================
+
+Log written at : 2/29/2016 11:49:59 PM
+Error occured on page : http://localhost:56801/adminCountdownTimePage.aspx
+
+Here is the actual error :
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at IPCSystem.adminCountdownTimePage.Page_Load(Object sender, EventArgs e) in c:\Users\Dell\Documents\Intelligent Pedestrian Crossing System\UILayer\IPCSystem\IPCSystem\adminCountdownTimePage.aspx.cs:line 21
+==========================================
